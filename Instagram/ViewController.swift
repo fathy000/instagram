@@ -1,5 +1,7 @@
 import UIKit
 import ESTabBarController
+import Firebase
+import FirebaseAuth
 
 class ViewController: UIViewController {
     
